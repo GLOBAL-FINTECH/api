@@ -23,7 +23,7 @@
     "nanoid": "^3.1.15",
     "peer": "^0.5.3",
     "permessage-deflate": "^0.1.7",
-    "sequelize": "^6.3.5",
+    "sequelize": "^6.12.1",
     "sqlite3": "^5.0.0",
     "ts-node": "^10.3.0"
   },
