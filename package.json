@@ -24,7 +24,7 @@
     "peer": "^0.5.3",
     "permessage-deflate": "^0.1.7",
     "sequelize": "^6.3.5",
-    "sqlite3": "^5.0.0",
+    "sqlite3": "^5.1.7",
     "ts-node": "^10.3.0"
   },
   "devDependencies": {
