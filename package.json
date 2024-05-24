@@ -25,7 +25,7 @@
     "permessage-deflate": "^0.1.7",
     "sequelize": "^6.3.5",
     "sqlite3": "^5.0.0",
-    "ts-node": "^10.3.0"
+    "ts-node": "^10.9.2"
   },
   "devDependencies": {
     "@types/lodash": "^4.14.162",
